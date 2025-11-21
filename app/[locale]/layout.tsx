@@ -50,6 +50,7 @@ export default async function RootLayout({
           "min-h-screen bg-background font-sans antialiased overflow-x-hidden",
           fontSans.variable
         )}
+        suppressHydrationWarning
       >
         <NextIntlClientProvider messages={messages}>
           <NextAuthSessionProvider>

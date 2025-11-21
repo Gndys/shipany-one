@@ -1,0 +1,26 @@
+### Test YouTube API
+POST http://localhost:3000/api/youtube
+Content-Type: application/json
+
+{
+  "tags": ["AI", "科技"],
+  "maxResults": 10
+}
+
+### Test with single tag
+POST http://localhost:3000/api/youtube
+Content-Type: application/json
+
+{
+  "tags": ["编程"],
+  "maxResults": 5
+}
+
+### Test with multiple tags
+POST http://localhost:3000/api/youtube
+Content-Type: application/json
+
+{
+  "tags": ["ChatGPT", "教程", "AI"],
+  "maxResults": 15
+}
