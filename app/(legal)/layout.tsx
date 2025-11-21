@@ -1,5 +1,7 @@
 import "@/app/globals.css";
 
+export const runtime = "edge";
+
 import { MdOutlineHome } from "react-icons/md";
 import { Metadata } from "next";
 import React from "react";

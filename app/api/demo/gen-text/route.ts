@@ -6,6 +6,8 @@ import {
 } from "ai";
 import { respData, respErr } from "@/lib/resp";
 
+export const runtime = "edge";
+
 import { createOpenAICompatible } from "@ai-sdk/openai-compatible";
 import { createOpenRouter } from "@openrouter/ai-sdk-provider";
 import { deepseek } from "@ai-sdk/deepseek";

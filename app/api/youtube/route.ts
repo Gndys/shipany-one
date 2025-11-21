@@ -6,6 +6,8 @@ import {
 import { respData, respErr } from "@/lib/resp";
 import { getUserUuid } from "@/services/user";
 
+export const runtime = "edge";
+
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
 const YOUTUBE_API_BASE_URL = "https://www.googleapis.com/youtube/v3";
 

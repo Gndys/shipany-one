@@ -1,6 +1,8 @@
 import { JSONValue, experimental_generateImage as generateImage } from "ai";
 import { respData, respErr } from "@/lib/resp";
 
+export const runtime = "edge";
+
 import type { ImageModelV1 } from "@ai-sdk/provider";
 import { getUuid } from "@/lib/hash";
 import { kling } from "@/aisdk/kling";

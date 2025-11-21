@@ -1,5 +1,7 @@
 import { respData, respErr, respJson } from "@/lib/resp";
 
+export const runtime = "edge";
+
 import { findUserByUuid } from "@/models/user";
 import { getUserUuid } from "@/services/user";
 import { getUserCredits } from "@/services/credit";

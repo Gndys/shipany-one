@@ -2,6 +2,8 @@ import { getUserEmail, getUserUuid } from "@/services/user";
 import { insertOrder, updateOrderSession } from "@/models/order";
 import { respData, respErr } from "@/lib/resp";
 
+export const runtime = "edge";
+
 import { Order } from "@/types/order";
 import Stripe from "stripe";
 import { findUserByUuid } from "@/models/user";

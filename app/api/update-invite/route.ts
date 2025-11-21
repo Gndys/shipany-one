@@ -10,6 +10,8 @@ import {
 } from "@/models/user";
 import { respData, respErr } from "@/lib/resp";
 
+export const runtime = "edge";
+
 import { getIsoTimestr } from "@/lib/time";
 import { insertAffiliate } from "@/models/affiliate";
 

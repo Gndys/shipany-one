@@ -2,6 +2,8 @@ import "@/app/globals.css";
 
 import { getMessages, getTranslations } from "next-intl/server";
 
+export const runtime = 'edge';
+
 import { AppContextProvider } from "@/contexts/app";
 import { Inter as FontSans } from "next/font/google";
 import { Metadata } from "next";

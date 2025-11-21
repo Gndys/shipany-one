@@ -5,6 +5,8 @@ import {
 } from "@/services/credit";
 import { respData, respErr } from "@/lib/resp";
 
+export const runtime = "edge";
+
 import { getUserUuid } from "@/services/user";
 
 export async function POST(req: Request) {
