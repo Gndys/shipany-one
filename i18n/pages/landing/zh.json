@@ -1,0 +1,699 @@
+{
+  "template": "shipany-template-one",
+  "theme": "light",
+  "header": {
+    "brand": {
+      "title": "PHANTOM RADAR",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "PHANTOM RADAR"
+      },
+      "url": "/zh"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "功能",
+          "url": "/#feature",
+          "icon": "HiOutlineSparkles"
+        },
+        {
+          "title": "案例",
+          "url": "/#showcase",
+          "icon": "BiCube"
+        },
+        {
+          "title": "定价",
+          "url": "/#pricing",
+          "icon": "MdPayment"
+        },
+        {
+          "title": "文档",
+          "url": "https://docs.youshiradar.site",
+          "icon": "RiBookLine",
+          "target": "_blank"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "开始使用",
+        "url": "/#pricing",
+        "target": "_self",
+        "variant": "link",
+        "icon": "RiArrowRightUpLine"
+      }
+    ],
+    "show_sign": true,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "发现下一个潜力创作者",
+    "highlight_text": "潜力创作者",
+    "description": "AI驱动的YouTube数据分析平台，<br/>帮助你精准挖掘低粉爆款、管理对标博主、实时监控视频数据。让数据驱动你的内容策略。",
+    "announcement": {
+      "label": "新功能",
+      "title": "🎉 标签管理系统上线",
+      "url": "/#feature"
+    },
+    "tip": "已被 500+ 创作者和MCN机构使用",
+    "buttons": [
+      {
+        "title": "立即开始",
+        "icon": "RiFlashlightFill",
+        "url": "/quiz",
+        "target": "_self",
+        "variant": "default"
+      },
+      {
+        "title": "查看文档",
+        "icon": "RiBookLine",
+        "url": "https://docs.youshiradar.site",
+        "target": "_blank",
+        "variant": "outline"
+      }
+    ],
+    "show_happy_users": true,
+    "show_badge": false
+  },
+  "branding": {
+    "title": "强大的数据分析能力",
+    "items": [
+      {
+        "title": "YouTube API",
+        "image": {
+          "src": "/imgs/logos/youtube.svg",
+          "alt": "YouTube API"
+        }
+      },
+      {
+        "title": "AI分析",
+        "image": {
+          "src": "/imgs/logos/ai.svg",
+          "alt": "AI分析"
+        }
+      },
+      {
+        "title": "实时数据",
+        "image": {
+          "src": "/imgs/logos/realtime.svg",
+          "alt": "实时数据"
+        }
+      },
+      {
+        "title": "智能推荐",
+        "image": {
+          "src": "/imgs/logos/smart.svg",
+          "alt": "智能推荐"
+        }
+      },
+      {
+        "title": "数据可视化",
+        "image": {
+          "src": "/imgs/logos/chart.svg",
+          "alt": "数据可视化"
+        }
+      }
+    ]
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "什么是 PHANTOM RADAR",
+    "label": "介绍",
+    "description": "PHANTOM RADAR 是一个专为内容创作者打造的YouTube数据分析平台，帮助你发现潜力博主、分析爆款视频、优化内容策略。",
+    "image": {
+      "src": "/imgs/features/1.png"
+    },
+    "items": [
+      {
+        "title": "精准挖掘",
+        "description": "智能筛选低粉高播放的潜力博主，10分钟找到100+优质对标账号。",
+        "icon": "RiSearchLine"
+      },
+      {
+        "title": "系统管理",
+        "description": "分类管理对标博主，建立专属数据库，让数据井井有条。",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "实时监控",
+        "description": "自动追踪最新视频数据，第一时间发现爆款趋势。",
+        "icon": "RiRadarLine"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "为什么选择 PHANTOM RADAR",
+    "label": "优势",
+    "description": "强大的功能，助你快速成长。",
+    "items": [
+      {
+        "title": "10分钟找到100个潜力创作者",
+        "description": "智能筛选粉丝少但视频爆款的频道，可复制性强，成功率高。让你发现那些被忽视的宝藏创作者。",
+        "icon": "RiSearchLine",
+        "image": {
+          "src": "/imgs/features/2.png"
+        }
+      },
+      {
+        "title": "系统化管理你的对标数据库",
+        "description": "告别杂乱无章的收藏夹，建立属于你的专业博主数据库。分类管理、标签打分、批量操作一应俱全。",
+        "icon": "RiDatabase2Line",
+        "image": {
+          "src": "/imgs/features/3.png"
+        }
+      },
+      {
+        "title": "自动追踪对标博主最新动态",
+        "description": "实时监控对标账号的最新视频，第一时间发现爆款趋势。排行榜功能让你不错过任何热门内容。",
+        "icon": "RiRadarLine",
+        "image": {
+          "src": "/imgs/features/4.png"
+        }
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "4步开始你的内容策略",
+    "description": "简单四步，开启你的YouTube数据分析之旅：",
+    "image": {
+      "src": "/imgs/features/1.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "配置API",
+        "description": "5分钟完成YouTube API配置，我们提供详细教程。",
+        "image": {
+          "src": "/imgs/features/5.png"
+        }
+      },
+      {
+        "title": "挖掘爆款",
+        "description": "使用爆款雷达，10分钟找到100+潜力博主。",
+        "image": {
+          "src": "/imgs/features/6.png"
+        }
+      },
+      {
+        "title": "管理博主",
+        "description": "系统化保存和分类你的对标账号数据。",
+        "image": {
+          "src": "/imgs/features/7.png"
+        }
+      },
+      {
+        "title": "持续监控",
+        "description": "自动追踪最新视频，永不错过爆款机会。",
+        "image": {
+          "src": "/imgs/features/8.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "PHANTOM RADAR 核心功能",
+    "description": "强大的功能，助你快速成长。",
+    "items": [
+      {
+        "title": "10分钟找到100个潜力创作者",
+        "description": "智能筛选粉丝少但视频爆款的频道，可复制性强，成功率高。",
+        "icon": "RiSearchLine"
+      },
+      {
+        "title": "系统化管理你的对标数据库",
+        "description": "告别杂乱无章的收藏夹，建立属于你的专业博主数据库。",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "自动追踪对标博主最新动态",
+        "description": "实时监控对标账号的最新视频，第一时间发现爆款趋势。",
+        "icon": "RiRadarLine"
+      },
+      {
+        "title": "建立你的专属选题库",
+        "description": "收集和分析热门标签，建立系统化的选题库。",
+        "icon": "RiHashtag"
+      },
+      {
+        "title": "突破API配额限制",
+        "description": "智能管理多个API Key，自动轮换和负载均衡。",
+        "icon": "RiKey2Fill"
+      },
+      {
+        "title": "数据可视化分析",
+        "description": "直观的图表展示，让数据一目了然。",
+        "icon": "RiBarChart2Line"
+      }
+    ]
+  },
+  "showcase": {
+    "name": "showcase",
+    "title": "看看他们如何使用工具",
+    "description": "真实用户案例分享。",
+    "items": [
+      {
+        "title": "ThinkAny",
+        "description": "AI 搜索引擎",
+        "url": "https://thinkany.ai",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/7.png"
+        }
+      },
+      {
+        "title": "HeyBeauty",
+        "description": "AI 虚拟试妆",
+        "url": "https://heybeauty.ai",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/5.png"
+        }
+      },
+      {
+        "title": "AI Wallpaper",
+        "description": "AI 壁纸生成器",
+        "url": "https://aiwallpaper.shop",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/1.png"
+        }
+      },
+      {
+        "title": "AI Cover",
+        "description": "AI 封面生成器",
+        "url": "https://aicover.design",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/2.png"
+        }
+      },
+      {
+        "title": "GPTs Works",
+        "description": "GPTs 目录",
+        "url": "https://gpts.works",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/3.png"
+        }
+      },
+      {
+        "title": "Melodisco",
+        "description": "AI 音乐播放器",
+        "url": "https://melodis.co",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/4.png"
+        }
+      },
+      {
+        "title": "Pagen",
+        "description": "AI 落地页生成器",
+        "url": "https://pagen.so",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/6.png"
+        }
+      },
+      {
+        "title": "SoraFM",
+        "description": "AI 视频生成器",
+        "url": "https://sorafm.trys.ai",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/8.png"
+        }
+      },
+      {
+        "title": "PodLM",
+        "description": "AI 播客生成器",
+        "url": "https://podlm.ai",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/9.png"
+        }
+      }
+    ]
+  },
+  "stats": {
+    "name": "stats",
+    "label": "数据",
+    "title": "用户喜爱 PHANTOM RADAR",
+    "description": "因为它高效且好用。",
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "信任",
+        "label": "500+",
+        "description": "创作者"
+      },
+      {
+        "title": "分析",
+        "label": "10万+",
+        "description": "博主数据"
+      },
+      {
+        "title": "效率",
+        "label": "10分钟",
+        "description": "100个潜力博主"
+      }
+    ]
+  },
+  "pricing": {
+    "name": "pricing",
+    "label": "定价",
+    "title": "定价",
+    "description": "获取 ShipAny 的所有功能，快速启动您的 AI SaaS 创业项目。",
+    "groups": [],
+    "items": [
+      {
+        "title": "入门版",
+        "description": "开始您的第一个 SaaS 创业项目。",
+        "features_title": "包含",
+        "features": [
+          "100 积分，有效期 1 个月",
+          "NextJS 模板",
+          "SEO 友好结构",
+          "Stripe 支付",
+          "Supabase 数据存储",
+          "Google OAuth 和一键登录",
+          "国际化支持"
+        ],
+        "interval": "one-time",
+        "amount": 9900,
+        "cn_amount": 69900,
+        "currency": "USD",
+        "price": "$99",
+        "original_price": "$199",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "一次付费，无限项目！",
+        "button": {
+          "title": "获取 ShipAny",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "starter",
+        "product_name": "ShipAny 模板入门版",
+        "credits": 100,
+        "valid_months": 1
+      },
+      {
+        "title": "标准版",
+        "description": "快速启动您的 SaaS 创业项目。",
+        "label": "热门",
+        "features_title": "包含入门版所有功能，另加",
+        "features": [
+          "200 积分，有效期 3 个月",
+          "Vercel 或 Cloudflare 部署",
+          "隐私和条款生成",
+          "Google Analytics 集成",
+          "Google Search Console 集成",
+          "Discord 社区",
+          "首次发布技术支持",
+          "终身更新"
+        ],
+        "interval": "one-time",
+        "amount": 19900,
+        "cn_amount": 139900,
+        "currency": "USD",
+        "price": "$199",
+        "original_price": "$299",
+        "unit": "USD",
+        "is_featured": true,
+        "tip": "一次付费，无限项目！",
+        "button": {
+          "title": "获取 ShipAny",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "standard",
+        "product_name": "ShipAny 模板标准版",
+        "credits": 200,
+        "valid_months": 3
+      },
+      {
+        "title": "高级版",
+        "description": "构建任何 AI SaaS 创业项目。",
+        "features_title": "包含标准版所有功能，另加",
+        "features": [
+          "300 积分，有效期 1 年",
+          "AI 业务功能",
+          "用户中心",
+          "积分系统",
+          "SaaS API 销售",
+          "管理系统",
+          "优先技术支持"
+        ],
+        "interval": "one-time",
+        "amount": 29900,
+        "cn_amount": 199900,
+        "currency": "USD",
+        "price": "$299",
+        "original_price": "$399",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "一次付费，无限项目！",
+        "button": {
+          "title": "获取 ShipAny",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "premium",
+        "product_name": "ShipAny 模板高级版",
+        "credits": 300,
+        "valid_months": 12
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "用户评价",
+    "title": "用户如何评价 PHANTOM RADAR",
+    "description": "听听使用 PHANTOM RADAR 的创作者和MCN机构怎么说。",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "小李",
+        "label": "YouTube创作者",
+        "description": "PHANTOM RADAR 让我找到了很多低粉高播放的宝藏博主，他们的内容风格非常适合我参考。现在我的视频播放量提升了300%！",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "王总",
+        "label": "MCN机构负责人",
+        "description": "我们用 PHANTOM RADAR 管理着100+对标账号，自动监控功能让我们第一时间发现爆款趋势，极大提高了团队效率。",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "张娜",
+        "label": "短视频运营",
+        "description": "标签管理功能太好用了，帮我建立了系统化的选题库。现在做内容策划时有数据支撑，不再靠感觉了。",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "刘先生",
+        "label": "知识博主",
+        "description": "API池管理功能解决了我的大问题，不用再担心配额用完。现在每天可以分析更多的数据，找到更多的灵感。",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "赵小姐",
+        "label": "内容策划",
+        "description": "数据可视化功能让我能快速分析竞品趋势。现在给领导汇报时，数据一目了然，非常专业。",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "李老师",
+        "label": "教育创作者",
+        "description": "作为新手创作者，PHANTOM RADAR 帮我快速找到了对标账号和内容方向。从0到第一个爆款视频，只用了一个月！",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "常见问题",
+    "title": "关于 PHANTOM RADAR 的常见问题",
+    "description": "还有其他问题？通过邮件联系我们。",
+    "items": [
+      {
+        "title": "PHANTOM RADAR 是什么？",
+        "description": "PHANTOM RADAR 是一个专为YouTube内容创作者打造的数据分析平台。它帮助你快速发现潜力博主、管理对标账号、监控视频数据、分析热门标签，让数据驱动你的内容策略。"
+      },
+      {
+        "title": "我需要懂技术才能使用吗？",
+        "description": "不需要！PHANTOM RADAR 设计得非常简单易用。我们提供详细的教程帮助你快速上手，即使是新手创作者也能轻松使用。"
+      },
+      {
+        "title": "如何获取YouTube API？",
+        "description": "我们提供了详细的API配置教程，只需褁5分钟就能完成配置。YouTube API是完全免费的，每天有一定的免费配额。如果需要更多配额，可以使用我们的API池管理功能。"
+      },
+      {
+        "title": "数据安全吗？",
+        "description": "非常安全！所有数据都存储在你的本地浏览器中，我们不会收集或存储你的任何数据。你可以随时导出和备份你的数据。"
+      },
+      {
+        "title": "有使用教程吗？",
+        "description": "有的！我们提供了详细的使用文档和视频教程，帮助你快速掌握每个功能。如果遇到问题，也可以通过邮件联系我们获得帮助。"
+      },
+      {
+        "title": "支持哪些平台？",
+        "description": "目前主要支持YouTube平台的数据分析。我们计划在未来支持更多视频平台，请关注我们的更新。"
+      }
+    ]
+  },
+  "cta": {
+    "name": "cta",
+    "title": "准备好发现下一个爆款了吗？",
+    "description": "立即开始使用 PHANTOM RADAR，让数据驱动你的内容策略。",
+    "buttons": [
+      {
+        "title": "立即开始",
+        "url": "/quiz",
+        "target": "_self",
+        "icon": "RiFlashlightFill"
+      },
+      {
+        "title": "查看文档",
+        "url": "https://docs.youshiradar.site",
+        "target": "_blank",
+        "variant": "outline"
+      }
+    ]
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "PHANTOM RADAR",
+      "description": "PHANTOM RADAR 是一个专为YouTube内容创作者打造的数据分析平台。帮助你发现潜力博主、分析爆款视频、优化内容策略。",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "PHANTOM RADAR"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • PHANTOM RADAR 保留所有权利。",
+    "nav": {
+      "items": [
+        {
+          "title": "产品",
+          "children": [
+            {
+              "title": "功能",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "案例",
+              "url": "/#showcase",
+              "target": "_self"
+            },
+            {
+              "title": "定价",
+              "url": "/#pricing",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "资源",
+          "children": [
+            {
+              "title": "使用文档",
+              "url": "https://docs.youshiradar.site",
+              "target": "_blank"
+            },
+            {
+              "title": "API教程",
+              "url": "https://docs.youshiradar.site/api",
+              "target": "_blank"
+            },
+            {
+              "title": "视频教程",
+              "url": "https://docs.youshiradar.site/videos",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "title": "关于",
+          "children": [
+            {
+              "title": "关于我们",
+              "url": "/about",
+              "target": "_self"
+            },
+            {
+              "title": "联系我们",
+              "url": "/contact",
+              "target": "_self"
+            },
+            {
+              "title": "博客",
+              "url": "/blog",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "X",
+          "icon": "RiTwitterXFill",
+          "url": "https://x.com/phantomradar",
+          "target": "_blank"
+        },
+        {
+          "title": "YouTube",
+          "icon": "RiYoutubeFill",
+          "url": "https://youtube.com/@phantomradar",
+          "target": "_blank"
+        },
+        {
+          "title": "GitHub",
+          "icon": "RiGithubFill",
+          "url": "https://github.com/phantomradar",
+          "target": "_blank"
+        },
+        {
+          "title": "邮箱",
+          "icon": "RiMailLine",
+          "url": "mailto:support@youshiradar.site",
+          "target": "_self"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "隐私政策",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "服务条款",
+          "url": "/terms-of-service"
+        }
+      ]
+    }
+  }
+}

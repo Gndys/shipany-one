@@ -1,0 +1,699 @@
+{
+  "template": "shipany-template-one",
+  "theme": "light",
+  "header": {
+    "brand": {
+      "title": "PHANTOM RADAR",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "PHANTOM RADAR"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Features",
+          "url": "/#feature",
+          "icon": "HiOutlineSparkles"
+        },
+        {
+          "title": "Showcase",
+          "url": "/#showcase",
+          "icon": "BiCube"
+        },
+        {
+          "title": "Pricing",
+          "url": "/#pricing",
+          "icon": "MdPayment"
+        },
+        {
+          "title": "Docs",
+          "url": "https://docs.youshiradar.site",
+          "icon": "RiBookLine",
+          "target": "_blank"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "Get Started",
+        "url": "/#pricing",
+        "target": "_self",
+        "variant": "link",
+        "icon": "RiArrowRightUpLine"
+      }
+    ],
+    "show_sign": true,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "Discover Your Next Potential Creator",
+    "highlight_text": "Potential Creator",
+    "description": "AI-powered YouTube data analysis platform.<br/>Precisely discover low-follower viral channels, manage benchmark creators, and monitor video data in real-time. Let data drive your content strategy.",
+    "announcement": {
+      "label": "New Feature",
+      "title": "🎉 Tag Management System Launched",
+      "url": "/#feature"
+    },
+    "tip": "Used by 500+ creators and MCN agencies",
+    "buttons": [
+      {
+        "title": "Get Started",
+        "icon": "RiFlashlightFill",
+        "url": "/quiz",
+        "target": "_self",
+        "variant": "default"
+      },
+      {
+        "title": "View Docs",
+        "icon": "RiBookLine",
+        "url": "https://docs.youshiradar.site",
+        "target": "_blank",
+        "variant": "outline"
+      }
+    ],
+    "show_happy_users": true,
+    "show_badge": false
+  },
+  "branding": {
+    "title": "Powerful Data Analysis Capabilities",
+    "items": [
+      {
+        "title": "YouTube API",
+        "image": {
+          "src": "/imgs/logos/youtube.svg",
+          "alt": "YouTube API"
+        }
+      },
+      {
+        "title": "AI Analysis",
+        "image": {
+          "src": "/imgs/logos/ai.svg",
+          "alt": "AI Analysis"
+        }
+      },
+      {
+        "title": "Real-time Data",
+        "image": {
+          "src": "/imgs/logos/realtime.svg",
+          "alt": "Real-time Data"
+        }
+      },
+      {
+        "title": "Smart Recommendations",
+        "image": {
+          "src": "/imgs/logos/smart.svg",
+          "alt": "Smart Recommendations"
+        }
+      },
+      {
+        "title": "Data Visualization",
+        "image": {
+          "src": "/imgs/logos/chart.svg",
+          "alt": "Data Visualization"
+        }
+      }
+    ]
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "What is PHANTOM RADAR",
+    "label": "Introduction",
+    "description": "PHANTOM RADAR is a YouTube data analysis platform built for content creators, helping you discover potential creators, analyze viral videos, and optimize content strategy.",
+    "image": {
+      "src": "/imgs/features/1.png"
+    },
+    "items": [
+      {
+        "title": "Precise Discovery",
+        "description": "Intelligently filter low-follower high-view potential creators, find 100+ quality benchmark accounts in 10 minutes.",
+        "icon": "RiSearchLine"
+      },
+      {
+        "title": "Systematic Management",
+        "description": "Categorize and manage benchmark creators, build your exclusive database, keep data organized.",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "Real-time Monitoring",
+        "description": "Automatically track latest video data, discover viral trends at the first moment.",
+        "icon": "RiRadarLine"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "Why Choose PHANTOM RADAR",
+    "label": "Benefits",
+    "description": "Powerful features to help you grow fast.",
+    "items": [
+      {
+        "title": "Find 100 Potential Creators in 10 Minutes",
+        "description": "Intelligently filter channels with low followers but viral videos. High replicability and success rate. Discover those overlooked treasure creators.",
+        "icon": "RiSearchLine",
+        "image": {
+          "src": "/imgs/features/2.png"
+        }
+      },
+      {
+        "title": "Systematically Manage Your Benchmark Database",
+        "description": "Say goodbye to messy bookmarks, build your professional creator database. Category management, tag scoring, batch operations all in one.",
+        "icon": "RiDatabase2Line",
+        "image": {
+          "src": "/imgs/features/3.png"
+        }
+      },
+      {
+        "title": "Auto-track Benchmark Creator Updates",
+        "description": "Real-time monitoring of benchmark accounts' latest videos, discover viral trends at the first moment. Ranking feature ensures you never miss hot content.",
+        "icon": "RiRadarLine",
+        "image": {
+          "src": "/imgs/features/4.png"
+        }
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "4 Steps to Start Your Content Strategy",
+    "description": "Simple four steps to begin your YouTube data analysis journey:",
+    "image": {
+      "src": "/imgs/features/1.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Configure API",
+        "description": "Complete YouTube API configuration in 5 minutes, we provide detailed tutorials.",
+        "image": {
+          "src": "/imgs/features/5.png"
+        }
+      },
+      {
+        "title": "Discover Viral Content",
+        "description": "Use viral radar to find 100+ potential creators in 10 minutes.",
+        "image": {
+          "src": "/imgs/features/6.png"
+        }
+      },
+      {
+        "title": "Manage Creators",
+        "description": "Systematically save and categorize your benchmark account data.",
+        "image": {
+          "src": "/imgs/features/7.png"
+        }
+      },
+      {
+        "title": "Continuous Monitoring",
+        "description": "Automatically track latest videos, never miss viral opportunities.",
+        "image": {
+          "src": "/imgs/features/8.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "PHANTOM RADAR Core Features",
+    "description": "Powerful features to help you grow fast.",
+    "items": [
+      {
+        "title": "Find 100 Potential Creators in 10 Minutes",
+        "description": "Intelligently filter channels with low followers but viral videos. High replicability and success rate.",
+        "icon": "RiSearchLine"
+      },
+      {
+        "title": "Systematically Manage Your Benchmark Database",
+        "description": "Say goodbye to messy bookmarks, build your professional creator database.",
+        "icon": "RiDatabase2Line"
+      },
+      {
+        "title": "Auto-track Benchmark Creator Updates",
+        "description": "Real-time monitoring of benchmark accounts' latest videos, discover viral trends at the first moment.",
+        "icon": "RiRadarLine"
+      },
+      {
+        "title": "Build Your Exclusive Topic Library",
+        "description": "Collect and analyze popular tags, build a systematic topic library.",
+        "icon": "RiHashtag"
+      },
+      {
+        "title": "Break Through API Quota Limits",
+        "description": "Intelligently manage multiple API Keys, automatic rotation and load balancing.",
+        "icon": "RiKey2Fill"
+      },
+      {
+        "title": "Data Visualization Analysis",
+        "description": "Intuitive chart display, making data clear at a glance.",
+        "icon": "RiBarChart2Line"
+      }
+    ]
+  },
+  "showcase": {
+    "name": "showcase",
+    "title": "See How They Use the Tool",
+    "description": "Real user case studies.",
+    "items": [
+      {
+        "title": "ThinkAny",
+        "description": "AI Search Engine",
+        "url": "https://thinkany.ai",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/7.png"
+        }
+      },
+      {
+        "title": "HeyBeauty",
+        "description": "AI Virtual Try On",
+        "url": "https://heybeauty.ai",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/5.png"
+        }
+      },
+      {
+        "title": "AI Wallpaper",
+        "description": "AI Wallpaper Generator",
+        "url": "https://aiwallpaper.shop",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/1.png"
+        }
+      },
+      {
+        "title": "AI Cover",
+        "description": "AI Cover Generator",
+        "url": "https://aicover.design",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/2.png"
+        }
+      },
+      {
+        "title": "GPTs Works",
+        "description": "GPTs Directory",
+        "url": "https://gpts.works",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/3.png"
+        }
+      },
+      {
+        "title": "Melodisco",
+        "description": "AI Music Player",
+        "url": "https://melodis.co",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/4.png"
+        }
+      },
+      {
+        "title": "Pagen",
+        "description": "AI Landing Page Generator",
+        "url": "https://pagen.so",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/6.png"
+        }
+      },
+      {
+        "title": "SoraFM",
+        "description": "AI Video Generator",
+        "url": "https://sorafm.trys.ai",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/8.png"
+        }
+      },
+      {
+        "title": "PodLM",
+        "description": "AI Podcast Generator",
+        "url": "https://podlm.ai",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/showcases/9.png"
+        }
+      }
+    ]
+  },
+  "stats": {
+    "name": "stats",
+    "label": "Stats",
+    "title": "People Love PHANTOM RADAR",
+    "description": "for it's efficient and easy to use.",
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "Trusted by",
+        "label": "500+",
+        "description": "Creators"
+      },
+      {
+        "title": "Analyzed",
+        "label": "100K+",
+        "description": "Creator Data"
+      },
+      {
+        "title": "Efficiency",
+        "label": "10 min",
+        "description": "100 Creators"
+      }
+    ]
+  },
+  "pricing": {
+    "name": "pricing",
+    "label": "Pricing",
+    "title": "Pricing",
+    "description": "Get all features of ShipAny, Ship your AI SaaS startups fast.",
+    "groups": [],
+    "items": [
+      {
+        "title": "Starter",
+        "description": "Get started with your first SaaS startup.",
+        "features_title": "Includes",
+        "features": [
+          "100 credits, valid for 1 month",
+          "NextJS boilerplate",
+          "SEO-friendly structure",
+          "Payment with Stripe",
+          "Data storage with Supabase",
+          "Google Oauth & One-Tap Login",
+          "i18n support"
+        ],
+        "interval": "one-time",
+        "amount": 9900,
+        "cn_amount": 69900,
+        "currency": "USD",
+        "price": "$99",
+        "original_price": "$199",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "Pay once. Build unlimited projects!",
+        "button": {
+          "title": "Get ShipAny",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "starter",
+        "product_name": "ShipAny Boilerplate Starter",
+        "credits": 100,
+        "valid_months": 1
+      },
+      {
+        "title": "Standard",
+        "description": "Ship Fast with your SaaS Startups.",
+        "label": "Popular",
+        "features_title": "Everything in Starter, plus",
+        "features": [
+          "200 credits, valid for 3 month",
+          "Deploy with Vercel or Cloudflare",
+          "Generation of Privacy & Terms",
+          "Google Analytics Integration",
+          "Google Search Console Integration",
+          "Discord community",
+          "Technical support for your first ship",
+          "Lifetime updates"
+        ],
+        "interval": "one-time",
+        "amount": 19900,
+        "cn_amount": 139900,
+        "currency": "USD",
+        "price": "$199",
+        "original_price": "$299",
+        "unit": "USD",
+        "is_featured": true,
+        "tip": "Pay once. Build unlimited projects!",
+        "button": {
+          "title": "Get ShipAny",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "standard",
+        "product_name": "ShipAny Boilerplate Standard",
+        "credits": 200,
+        "valid_months": 3
+      },
+      {
+        "title": "Premium",
+        "description": "Ship Any AI SaaS Startups.",
+        "features_title": "Everything in Standard, plus",
+        "features": [
+          "300 credits, valid for 1 year",
+          "Business Functions with AI",
+          "User Center",
+          "Credits System",
+          "API Sales for your SaaS",
+          "Admin System",
+          "Priority Technical Support"
+        ],
+        "interval": "one-time",
+        "amount": 29900,
+        "cn_amount": 199900,
+        "currency": "USD",
+        "price": "$299",
+        "original_price": "$399",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "Pay once. Build unlimited projects!",
+        "button": {
+          "title": "Get ShipAny",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "premium",
+        "product_name": "ShipAny Boilerplate Premium",
+        "credits": 300,
+        "valid_months": 12
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "Testimonial",
+    "title": "What Users Say About PHANTOM RADAR",
+    "description": "Hear from creators and MCN agencies who use PHANTOM RADAR.",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "Alex Lee",
+        "label": "YouTube Creator",
+        "description": "PHANTOM RADAR helped me find many low-follower high-view treasure creators. Their content style is perfect for my reference. My video views increased by 300%!",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "Michael Wang",
+        "label": "MCN Agency Director",
+        "description": "We manage 100+ benchmark accounts with PHANTOM RADAR. The auto-monitoring feature helps us discover viral trends at the first moment, greatly improving team efficiency.",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "Sarah Zhang",
+        "label": "Short Video Operator",
+        "description": "The tag management feature is amazing, helping me build a systematic topic library. Now I have data support when planning content, no longer relying on feelings.",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "John Liu",
+        "label": "Knowledge Creator",
+        "description": "The API pool management feature solved my big problem, no need to worry about quota running out. Now I can analyze more data every day and find more inspiration.",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "Emma Zhao",
+        "label": "Content Strategist",
+        "description": "The data visualization feature allows me to quickly analyze competitor trends. When reporting to leadership, the data is clear at a glance, very professional.",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "Tom Li",
+        "label": "Education Creator",
+        "description": "As a newbie creator, PHANTOM RADAR helped me quickly find benchmark accounts and content direction. From 0 to first viral video, it only took one month!",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "Frequently Asked Questions About PHANTOM RADAR",
+    "description": "Have another question? Contact us by email.",
+    "items": [
+      {
+        "title": "What is PHANTOM RADAR?",
+        "description": "PHANTOM RADAR is a data analysis platform built for YouTube content creators. It helps you quickly discover potential creators, manage benchmark accounts, monitor video data, and analyze popular tags, letting data drive your content strategy."
+      },
+      {
+        "title": "Do I need technical knowledge to use it?",
+        "description": "No! PHANTOM RADAR is designed to be very simple and easy to use. We provide detailed tutorials to help you get started quickly, even newbie creators can use it easily."
+      },
+      {
+        "title": "How to get YouTube API?",
+        "description": "We provide detailed API configuration tutorials, it only takes 5 minutes to complete the setup. YouTube API is completely free with a certain daily free quota. If you need more quota, you can use our API pool management feature."
+      },
+      {
+        "title": "Is the data secure?",
+        "description": "Very secure! All data is stored in your local browser, we do not collect or store any of your data. You can export and backup your data at any time."
+      },
+      {
+        "title": "Are there usage tutorials?",
+        "description": "Yes! We provide detailed documentation and video tutorials to help you quickly master each feature. If you encounter problems, you can also contact us by email for help."
+      },
+      {
+        "title": "Which platforms are supported?",
+        "description": "Currently mainly supports YouTube platform data analysis. We plan to support more video platforms in the future, please follow our updates."
+      }
+    ]
+  },
+  "cta": {
+    "name": "cta",
+    "title": "Ready to Discover Your Next Viral Hit?",
+    "description": "Start using PHANTOM RADAR now, let data drive your content strategy.",
+    "buttons": [
+      {
+        "title": "Get Started",
+        "url": "/quiz",
+        "target": "_self",
+        "icon": "RiFlashlightFill"
+      },
+      {
+        "title": "View Docs",
+        "url": "https://docs.youshiradar.site",
+        "target": "_blank",
+        "variant": "outline"
+      }
+    ]
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "PHANTOM RADAR",
+      "description": "PHANTOM RADAR is a YouTube data analysis platform built for content creators. Help you discover potential creators, analyze viral videos, and optimize content strategy.",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "PHANTOM RADAR"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • PHANTOM RADAR All rights reserved.",
+    "nav": {
+      "items": [
+        {
+          "title": "Product",
+          "children": [
+            {
+              "title": "Features",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "Showcase",
+              "url": "/#showcase",
+              "target": "_self"
+            },
+            {
+              "title": "Pricing",
+              "url": "/#pricing",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Resources",
+          "children": [
+            {
+              "title": "Documentation",
+              "url": "https://docs.youshiradar.site",
+              "target": "_blank"
+            },
+            {
+              "title": "API Tutorial",
+              "url": "https://docs.youshiradar.site/api",
+              "target": "_blank"
+            },
+            {
+              "title": "Video Tutorials",
+              "url": "https://docs.youshiradar.site/videos",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "title": "About",
+          "children": [
+            {
+              "title": "About Us",
+              "url": "/about",
+              "target": "_self"
+            },
+            {
+              "title": "Contact Us",
+              "url": "/contact",
+              "target": "_self"
+            },
+            {
+              "title": "Blog",
+              "url": "/blog",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "X",
+          "icon": "RiTwitterXFill",
+          "url": "https://x.com/phantomradar",
+          "target": "_blank"
+        },
+        {
+          "title": "YouTube",
+          "icon": "RiYoutubeFill",
+          "url": "https://youtube.com/@phantomradar",
+          "target": "_blank"
+        },
+        {
+          "title": "GitHub",
+          "icon": "RiGithubFill",
+          "url": "https://github.com/phantomradar",
+          "target": "_blank"
+        },
+        {
+          "title": "Email",
+          "icon": "RiMailLine",
+          "url": "mailto:support@youshiradar.site",
+          "target": "_self"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "Terms of Service",
+          "url": "/terms-of-service"
+        }
+      ]
+    }
+  }
+}
